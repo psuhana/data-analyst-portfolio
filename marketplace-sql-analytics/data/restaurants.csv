@@ -1,0 +1,51 @@
+restaurant_id,name,cuisine_type,city,avg_preparation_time_min,rating
+1,Contractor Ltd,Juice Bar,Chennai,23,4.45
+2,Subramaniam and Sons,Bakery,Chennai,21,4.98
+3,Lanka-Babu,South Indian,Chennai,15,3.64
+4,Khurana-Sani,Bakery,Chennai,37,4.26
+5,Savant and Sons,Juice Bar,Chennai,35,4.9
+6,Shankar Group,Fast Food,Chennai,23,3.25
+7,Lad Inc,Chinese,Chennai,26,4.19
+8,Kalla-Ramakrishnan,Bakery,Chennai,18,4.57
+9,Venkataraman-Shroff,Juice Bar,Chennai,33,4.44
+10,Subramaniam and Sons,South Indian,Chennai,17,3.07
+11,"Thakur, Som and Bera",Bakery,Chennai,13,4.28
+12,Tata-Toor,Fast Food,Chennai,12,3.66
+13,Batra-Hayer,Bakery,Chennai,21,3.37
+14,"Kalla, Sarna and Doctor",Chinese,Chennai,22,3.42
+15,"Raja, Khalsa and Raj",North Indian,Chennai,11,4.86
+16,"Chandra, Doctor and Agrawal",Chinese,Chennai,30,3.43
+17,Warrior-Shukla,South Indian,Chennai,12,3.28
+18,Contractor-Solanki,North Indian,Chennai,34,3.99
+19,Choudhry-Rattan,South Indian,Chennai,28,3.83
+20,"Madan, Vohra and Choudhury",South Indian,Chennai,15,3.9
+21,Gour-Jani,Chinese,Chennai,20,3.01
+22,Dhar and Sons,Juice Bar,Chennai,35,3.14
+23,Sankar-Chawla,Juice Bar,Chennai,28,4.22
+24,"Samra, Basu and Suri",Chinese,Chennai,28,3.09
+25,"Bora, Chowdhury and Lad",South Indian,Chennai,22,4.87
+26,Manne Group,Bakery,Chennai,37,4.71
+27,"Shenoy, Singh and Malhotra",Fast Food,Chennai,38,3.92
+28,Devan Ltd,Chinese,Chennai,30,3.12
+29,Rout-Acharya,Fast Food,Chennai,34,4.85
+30,Rana Group,Juice Bar,Chennai,16,3.6
+31,Balasubramanian-Golla,North Indian,Chennai,22,4.06
+32,Balakrishnan Ltd,Juice Bar,Chennai,10,4.4
+33,"Dhar, Tak and Batra",Chinese,Chennai,34,4.41
+34,Varkey Inc,Juice Bar,Chennai,14,3.27
+35,Vora-Chad,Fast Food,Chennai,17,3.56
+36,Bassi Group,Juice Bar,Chennai,13,3.81
+37,"Kapur, Chhabra and Luthra",Bakery,Chennai,12,3.53
+38,"Bhattacharyya, Reddy and Vig",Juice Bar,Chennai,31,4.58
+39,Bhavsar-Kata,South Indian,Chennai,29,4.75
+40,Loke-Chaudhuri,South Indian,Chennai,21,4.56
+41,Bhalla PLC,Juice Bar,Chennai,19,4.58
+42,"Das, Sagar and Biswas",Juice Bar,Chennai,25,4.52
+43,Kulkarni Group,Juice Bar,Chennai,27,4.13
+44,Dasgupta Inc,Bakery,Chennai,19,3.2
+45,"Sodhi, Sarma and Garde",Fast Food,Chennai,21,4.26
+46,Deep-Edwin,Bakery,Chennai,22,4.46
+47,"Sarraf, Sanghvi and Goyal",South Indian,Chennai,16,4.38
+48,Aurora PLC,South Indian,Chennai,17,4.08
+49,"Dani, Dhingra and Solanki",Juice Bar,Chennai,22,3.43
+50,"Raju, Lal and Tank",Juice Bar,Chennai,26,4.35
