@@ -1,4 +1,4 @@
-# Marketplace SQL Analytics — Chennai Food Delivery Case Study
+# Marketplace SQL Analytics: Chennai Food Delivery Case Study
 
 This project is an end-to-end SQL analytics case study built using a synthetic but realistic **food delivery marketplace dataset** (inspired by Zomato, Swiggy, Blinkit).
 
@@ -16,29 +16,28 @@ The project includes:
 
 marketplace-sql-analytics/
 │
-├── data/ # Raw datasets (CSV)
-│ ├── customers.csv
-│ ├── restaurants.csv
-│ ├── menu_items.csv
-│ ├── orders.csv
-│ ├── order_items.csv
-│ ├── delivery_riders.csv
-│ └── ratings.csv
+├── data/                      # Raw datasets (CSV)
+│   ├── customers.csv
+│   ├── restaurants.csv
+│   ├── menu_items.csv
+│   ├── orders.csv
+│   ├── order_items.csv
+│   ├── delivery_riders.csv
+│   └── ratings.csv
 │
-├── queries/ # SQL scripts (analysis + exports)
-│ ├── customer_insights.sql
-│ ├── restaurant_performance.sql
-│ ├── delivery_analytics.sql
-│ ├── business_kpis.sql
-│ ├── customer_insights_export.sql
-│ ├── restaurant_performance_export.sql
-│ ├── delivery_analytics_export.sql
-│ └── business_kpis_export.sql
+├── queries/                   # SQL analysis + export scripts
+│   ├── customer_insights.sql
+│   ├── restaurant_performance.sql
+│   ├── delivery_analytics.sql
+│   ├── business_kpis.sql
+│   ├── customer_insights_export.sql
+│   ├── restaurant_performance_export.sql
+│   ├── delivery_analytics_export.sql
+│   └── business_kpis_export.sql
 │
-├── outputs/ # Auto-generated CSV outputs for BI dashboards
+├── outputs/                   # BI-ready exported CSVs
 │
-└── schema.sql # Data model documentation (7 normalized tables)
-
+└── schema.sql                 # Data model documentation
 
 ---
 
