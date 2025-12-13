@@ -1,6 +1,6 @@
 # Alvin AUV — Ensemble Kalman Filter (EnKF) for Depth and Parameter Estimation
 
-This project implements an **Ensemble Kalman Filter (EnKF)** to estimate the vertical state and key physical parameters of the **DSV Alvin** using real dive telemetry data.
+This project implements an Ensemble Kalman Filter (EnKF) to estimate the vertical state and key physical parameters of the DSV Alvin using real dive telemetry data.
 
 The objective is to demonstrate nonlinear state estimation, system identification, and physics-aware filtering on real-world underwater vehicle data.
 
