@@ -9,36 +9,6 @@ The project includes:
 - BI-ready exports  
 - a documented relational schema  
 - ready-to-run DuckDB workflows  
-
----
-
-## Project Structure
-
-marketplace-sql-analytics/
-│
-├── data/                      # Raw datasets (CSV)
-│   ├── customers.csv
-│   ├── restaurants.csv
-│   ├── menu_items.csv
-│   ├── orders.csv
-│   ├── order_items.csv
-│   ├── delivery_riders.csv
-│   └── ratings.csv
-│
-├── queries/                   # SQL analysis + export scripts
-│   ├── customer_insights.sql
-│   ├── restaurant_performance.sql
-│   ├── delivery_analytics.sql
-│   ├── business_kpis.sql
-│   ├── customer_insights_export.sql
-│   ├── restaurant_performance_export.sql
-│   ├── delivery_analytics_export.sql
-│   └── business_kpis_export.sql
-│
-├── outputs/                   # BI-ready exported CSVs
-│
-└── schema.sql                 # Data model documentation
-
 ---
 
 ## Tools & Technologies
@@ -67,7 +37,6 @@ This project includes ~12,000 orders and realistic marketplace entities:
 - **ratings** – customer feedback + timestamps  
 
 All tables are documented in `schema.sql`.
-
 ---
 
 ## Analytics Covered
@@ -103,12 +72,12 @@ All tables are documented in `schema.sql`.
 
 The system follows a normalized relational model:
 
-customers (1) ──── (∞) orders
-restaurants (1) ──── (∞) orders
-orders (1) ──── (∞) order_items
-restaurants (1) ──── (∞) menu_items
-orders (1) ──── (1) ratings
-delivery_riders (1) ──── (∞) orders
+- customers (1) ──── (∞) orders
+- restaurants (1) ──── (∞) orders
+- orders (1) ──── (∞) order_items
+- restaurants (1) ──── (∞) menu_items
+- orders (1) ──── (1) ratings
+- delivery_riders (1) ──── (∞) orders
 
 ## Author
 
